@@ -1,2 +1,6 @@
 # 020 Create Django Projects
 # docker-compose run app sh -c "django-admin.py startproject app ."
+
+# 022 Create Travis CLI configuration file
+# Sync Travis CLI with Github
+# create .travis.yml
